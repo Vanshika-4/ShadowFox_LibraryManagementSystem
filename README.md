@@ -1,18 +1,11 @@
-## Getting Started
+# Library Management System with Data Persistence (SQLite)
+# Key Learning: Data persistence with SQLite, user management.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+![image](https://github.com/Vanshika-4/ShadowFox_LibraryManagementSystem/assets/99902976/cd40ddd2-5882-4b5d-b3d0-8515427d95f5)
 
-## Folder Structure
+![image](https://github.com/Vanshika-4/ShadowFox_LibraryManagementSystem/assets/99902976/c72f7efd-9498-41af-a12b-f756c8ab9efd)
 
-The workspace contains two folders by default, where:
+![image](https://github.com/Vanshika-4/ShadowFox_LibraryManagementSystem/assets/99902976/93ccfda5-b206-4e21-9624-d8295ea87408)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+![image](https://github.com/Vanshika-4/ShadowFox_LibraryManagementSystem/assets/99902976/4fc8adf7-27d3-47ca-bd92-0a2e5ef55db7)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
